@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+  color: white;
+}
+/* this is the code for the nav buttons */
+
+.nav-link {
+padding: 8px 16px;
+background-color: #27272a;
+color: white;
+text-decoration: none;
+border-radius: 6px;
+}
+.nav-link:hover {
+  background-color: #dc2626;
+}

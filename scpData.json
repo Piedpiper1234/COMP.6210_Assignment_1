@@ -1,0 +1,138 @@
+{
+  "scps" : [
+    {
+      "itemNumber": "SCP-003",
+      "objectClass": "Euclid",
+      "specialContainmentProcedures": "SCP-003 is to be maintained at constant temperature no less than 35°C and ideally above 100°C. No living multicellular organisms of Category IV or higher complexity permitted contact. In power failure, if SCP-003-1 increases mass, assigned personnel must engage skin contact. Personnel entering containment area must be examined for parasites and sterilized. SCP-003-1 must not be removed from SCP-003-2 except emergencies. Changes in SCP-003-2 rune activity reported within three hours. Cessation reported immediately. SCP-003-2 must be powered via Generator 003-IX.",
+      "description": "SCP-003 consists of two components: SCP-003-1 and SCP-003-2. SCP-003-1 composed of chitin, hair, and nails arranged in computer motherboard configuration, predating earliest circuit boards by thousands of years. Sentient but not actively dangerous except certain conditions. Found on stone tablet SCP-003-2 with unknown language runes emitting pale flickering light. SCP-003-2 controlled by non-biological computer, capable of controlled radiation emissions. Contains anomalous internal power source losing power for centuries. Probable that SCP-003-2 created to contain SCP-003-1. Below 35°C, SCP-003-1 enters exponential growth state in two stages: Stage one forms ophiuroid-like shape 15m diameter. Stage two occurs with living organic contact, templating and attempting communication.",
+      "Image": "/images/SCP003.jpg",
+      "addenda": [
+        {
+          "id": "003-01",
+          "summary": "Research Team M03-Gloria established link",
+          "content": "M03-Gloria managed to establish link with [DATA EXPUNGED]. SCP-003-1 must be kept minimum 1 km away."
+        },
+        {
+          "id": "003-02",
+          "summary": "Power loss exacerbation",
+          "content": "SCP-003-2 power loss exacerbated by M03-Gloria procedures. O5-10 ordered continuation."
+        },
+        {
+          "id": "003-03",
+          "summary": "First growth event",
+          "content": "SCP-003-1 doubled mass and began growth. After 9m6s, sustained radiation spike produced. Returned to normal in 3m39s."
+        },
+        {
+          "id": "003-04",
+          "summary": "Breach and containment",
+          "content": "Procedure repeated. After 10m13s, radiation spike. SCP-003-1 quadrupled mass, breached containment, formed female humanoid. Agent Jackson restored power, successfully re-contained."
+        },
+        {
+          "id": "003-05",
+          "summary": "Council action",
+          "content": "O5-10 removed from O5 Council. M03-Gloria procedures indefinitely suspended."
+        }
+      ]
+    },
+    {
+      "itemNumber": "SCP-004",
+      "objectClass": "Euclid",
+      "specialContainmentProcedures": "When handling SCP-004-2 through SCP-004-13, proper procedure vital. Not permitted off-site without two Level 4 personnel. No other component through SCP-004-1. Should containment breach, keys brought inside before Site 62 warhead activation. Unauthorized removal grounds for termination. Level 1 clearance for SCP-004-1; Level 4 for keys.",
+      "description": "SCP-004 consists of old wooden barn door (SCP-004-1) and twelve rusted steel keys (SCP-004-2 through SCP-004-13). Door entrance to abandoned factory in [DATA EXPUNGED]. Ten keys open onto dimensions with different physics and topology, tearing test subjects apart across multiple spatial locations.",
+      "Image": "/images/SCP004_door.jpg",
+      "chronologicalHistory": [
+        {
+          "date": "07/02/1949",
+          "event": "Three juveniles find door and keys; one friend goes missing"
+        },
+        {
+          "date": "07/03/1949",
+          "event": "Remains scattered 8-32 km; SCP Foundation assumes investigation"
+        },
+        {
+          "date": "07/04/1949",
+          "event": "Testing: 12 Class D personnel; only 2 survive (SCP-004-7 safe; others torn apart)"
+        },
+        {
+          "date": "07/16/1949",
+          "event": "Juveniles and sheriff terminated"
+        },
+        {
+          "date": "08/02/1949",
+          "event": "Area declared hazardous; testing begins"
+        },
+        {
+          "date": "12/01/1950",
+          "event": "Space-time anomalies confirmed; testing suspended"
+        },
+        {
+          "date": "07/02/1961",
+          "event": "Remains of first casualty appear undecomposed"
+        },
+        {
+          "date": "07/04/1972",
+          "event": "Remains of test subject appear; designated SCP-004-CAS02"
+        },
+        {
+          "date": "03/21/1999",
+          "event": "Construction begins inside SCP-004-1"
+        },
+        {
+          "date": "04/21/1999",
+          "event": "Site expanded; designated Site-62"
+        },
+        {
+          "date": "09/25/2000",
+          "event": "Site-62 operational"
+        },
+        {
+          "date": "01/25/2001",
+          "event": "All personnel required on-site due to time anomalies"
+        },
+        {
+          "date": "08/14/2003",
+          "event": "Power outage; personnel sense humanoid creatures"
+        }
+      ],
+      "spaceTimeAnomalies": "SCP-004 propagates spatiotemporal anomalies. Personnel report losing time. Reappearance of remains exactly [DATA EXPUNGED] years after key use. Spatial anomalies include impossibly large dimensions behind SCP-004-7.",
+      "appendices": {
+        "A": {
+          "title": "Mental Health Effects",
+          "content": "All using SCP-004-12 return catatonic. Of 16 subjects, 4 survived. One described massive green creature; displays amnesia."
+        },
+        "B": {
+          "itemNumber": "SCP-004-14",
+          "discovered": "09/02/1950",
+          "description": "Large unvarnished wooden box. Interior volume 5x exterior. Items vanish when locked."
+        }
+      }
+    },
+    {
+      "itemNumber": "SCP-005",
+      "objectClass": "Safe",
+      "specialContainmentProcedures": "Poses no immediate risk. Approval of Level 4 personnel required for removal.",
+      "description": "Ornate key resembling 1920s mass-produced key. Discovered when civilian infiltrated high security facility. Possesses unique ability to open any form of lock—mechanical or digital—with relative ease. Origin unknown.",
+      "Image": "/images/SCP-005.jpg",
+      "additionalNotes": "May be used as replacement for lost security passes under Level 4 supervision. May not be used for vending machines, lockers, or personal keys. Removal results in termination.",
+      "appendixA": "Efforts to disguise lock identity successful ~50% of cases. Tentatively classified sentient. Tests ongoing on cognitive abilities."
+    },
+    {
+      "itemNumber": "SCP-006",
+      "objectClass": "Safe",
+      "specialContainmentProcedures": [
+        "Personnel must wear modified Class VI BNC suits",
+        "Procedures under extreme surveillance; contact triggers evacuation protocol",
+        "Liquid acquisition requires three O5 approvals; transfer in Quad-Sealant Container",
+        "Contact personnel confined and terminated by incineration"
+      ],
+      "description": "Small spring 60 km west of Astrakhan. Known since 19th century; secured 1991. Chemical factory constructed as disguise. Liquid chemically mineral water with unusual 'health' property.",
+      "humanProperties": [
+        "DNA regeneration",
+        "Heightened cellular duplication",
+        "Improved tissue repair",
+        "Increased immune system effectiveness"
+      ],
+      "animalTesting": "Hostile bacteria and viral agents destroyed immediately. Reptiles and birds largely unaffected. Higher primates benefited like humans."
+    }
+  ]
+}
