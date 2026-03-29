@@ -12,7 +12,7 @@ export default function SCP() {
   }
 
   return (
-    <div>
+    <div className="max-w-3xl mx-auto px-4 py-8">
       <h1>Item #: {scp.itemNumber}</h1>
       <h2>Object Class: {scp.objectClass}</h2>
 
@@ -21,7 +21,7 @@ export default function SCP() {
 
       <h3>Description</h3>
       <p>{scp.description}</p>
-      {scp.Image && <img src={scp.Image} alt={scp.itemNumber} />}
+      {scp.image && <img src={scp.Image} alt={scp.itemNumber} />}
 
       {scp.addenda && (
         <div>
