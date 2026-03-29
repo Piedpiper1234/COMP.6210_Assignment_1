@@ -17,7 +17,12 @@ export default function SCP() {
       <h2>Object Class: {scp.objectClass}</h2>
 
       <h3>Special Containment Procedures</h3>
-      <p>{scp.specialContainmentProcedures}</p>
+      {Array.isArray(scp.specialContainmentProcedures)
+  ? scp.specialContainmentProcedures.map((item, index) => (
+      <p key={index}>{item}</p>
+    ))
+  : <p>{scp.specialContainmentProcedures}</p>
+}
 
       <h3>Description</h3>
       <p>{scp.description}</p>
