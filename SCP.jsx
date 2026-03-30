@@ -1,7 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import scpData from "./scpData.json";
-
 export default function SCP() {
   const { id } = useParams();
 
@@ -26,7 +25,7 @@ export default function SCP() {
 
       <h3>Description</h3>
       <p>{scp.description}</p>
-      {scp.image && <img src={scp.Image} alt={scp.itemNumber} />}
+      {scp.Image && <img src={scp.Image} alt={scp.itemNumber} />}
 
       {scp.addenda && (
         <div>
